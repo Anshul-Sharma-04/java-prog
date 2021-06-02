@@ -44,3 +44,21 @@ class Test
 }
 
 // test also updated
+/*
+
+config 
+init
+status 
+add 
+commit
+log
+checkout
+.gitignore
+Repository
+push 
+remote
+clone
+fork 
+pull request
+
+*/
